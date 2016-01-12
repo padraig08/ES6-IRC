@@ -1,0 +1,22 @@
+{
+  "name": "ES6-IRC",
+  "version": "0.0.0",
+  "description": "you know what it is",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/padraig08/ES6-IRC"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/padraig08/ES6-IRC/issues"
+  },
+  "homepage": "https://github.com/padraig08/ES6-IRC",
+  "dependencies": {
+    "irc": "^0.4.0"
+  }
+}
