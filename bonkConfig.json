@@ -1,0 +1,12 @@
+{
+	"server":"grizzly.bearcopter.com", 
+	"nick":"Steve",
+	"options":{
+		"channels": ["#bonkbot"],
+		"debug":true,
+		"autoRejoin":false,
+		"ShowErrors":true
+	}
+
+	
+}
