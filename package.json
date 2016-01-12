@@ -18,5 +18,8 @@
   "homepage": "https://github.com/padraig08/ES6-IRC",
   "dependencies": {
     "irc": "^0.4.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0"
   }
 }
