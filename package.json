@@ -2,7 +2,7 @@
   "name": "ES6-IRC",
   "version": "0.0.0",
   "description": "you know what it is",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
