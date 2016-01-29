@@ -4,7 +4,7 @@
 	"options":{
 		"channels": ["#bonkbot"],
 		"debug":true,
-		"autoRejoin":false,
+		"autoRejoin":true,
 		"ShowErrors":true
 	}
 
